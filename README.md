@@ -1,1 +1,1 @@
-# OrganizacaoDeComputadoresDCC070-Trabalho
+# Trabalho OC MIPS
